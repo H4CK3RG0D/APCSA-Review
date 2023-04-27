@@ -73,15 +73,15 @@ In order to calculate this value, two helper methods are provided for you.
     dayOfYear(3, 1, 2017) returns 60, since 2017 is not a leap year, while
     dayOfYear(3, 1, 2016) returns 61, since 2016 is a leap year. 
 
-| Class information for this question 
-`public class APCalendar`
-`private static boolean isLeapYear(int year)`
-`public static int numberOfLeapYears(int year1, int year2)`
-`private static int firstDayOfYear(int year)`
-`private static int dayOfYear(int month, int day, int year)`
-`public static int dayOfWeek(int month, int day, int year)`|
-
+## Class information for this question 
+`public class APCalendar`<br>
+`private static boolean isLeapYear(int year)`<br>
+`public static int numberOfLeapYears(int year1, int year2)`<br>
+`private static int firstDayOfYear(int year)`<br>
+`private static int dayOfYear(int month, int day, int year)`<br>
+`public static int dayOfWeek(int month, int day, int year)`<br>
 <br>
+
 ---
 <br>
 
