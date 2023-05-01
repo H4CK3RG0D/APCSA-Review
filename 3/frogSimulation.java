@@ -31,4 +31,5 @@ class frogSimulation {
             return (double)countSucc / num;
         }
     }
+
 }
